@@ -1,0 +1,17 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
